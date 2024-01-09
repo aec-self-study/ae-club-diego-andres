@@ -1,1 +1,1 @@
--- this comment will be changed to simulate a merge conflict
+-- this comment has been changed to simulate the merge conflict
